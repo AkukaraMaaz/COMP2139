@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "58+HGjZzyCzurMnz17VftTMG49ITKjh47c8yeQ5x8lg=",
+  "Hash": "i/0BJum5ucimAUk9z9mhcbjSJDx6n33ZMo8VVuSeuGA=",
   "Source": "SmartInventoryManagement",
   "BasePath": "_content/SmartInventoryManagement",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "SmartInventoryManagement\\wwwroot",
       "Source": "SmartInventoryManagement",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SmartInventoryManagement.styles.css",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SmartInventoryManagement.styles.css",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "SmartInventoryManagement#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "F8Cl0d+VRhsVqqE3MhneALhwStqQG6PI50cmPvm6psI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\Comp2139\\SmartInventoryManagement\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SmartInventoryManagement.styles.css"
+      "OriginalItemSpec": "E:\\Comp2139\\COMP2139-W2025\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SmartInventoryManagement.styles.css"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SmartInventoryManagement.bundle.scp.css",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SmartInventoryManagement.bundle.scp.css",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "SmartInventoryManagement#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "F8Cl0d+VRhsVqqE3MhneALhwStqQG6PI50cmPvm6psI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\Comp2139\\SmartInventoryManagement\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SmartInventoryManagement.bundle.scp.css"
+      "OriginalItemSpec": "E:\\Comp2139\\COMP2139-W2025\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SmartInventoryManagement.bundle.scp.css"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\css\\site.css",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\css\\site.css",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\favicon.ico",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\favicon.ico",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\js\\site.js",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\js\\site.js",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -395,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -458,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -479,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -500,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -521,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -542,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -563,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -584,10 +584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -605,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -626,10 +626,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -647,10 +647,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -668,10 +668,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -689,10 +689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -710,10 +710,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -752,10 +752,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -773,10 +773,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -794,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -836,10 +836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -857,10 +857,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -878,10 +878,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -899,10 +899,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -920,10 +920,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -941,10 +941,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -962,10 +962,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -983,10 +983,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1004,10 +1004,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1025,10 +1025,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1046,10 +1046,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -1067,10 +1067,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1109,10 +1109,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1130,10 +1130,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1151,10 +1151,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1172,10 +1172,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1193,10 +1193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -1235,10 +1235,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1256,10 +1256,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1277,10 +1277,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1298,10 +1298,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/jquery/dist/jquery.slim#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1319,10 +1319,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.slim.js"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/jquery/dist/jquery.slim.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1340,10 +1340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/jquery/dist/jquery.slim.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1361,10 +1361,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map"
     },
     {
-      "Identity": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "SmartInventoryManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\",
+      "ContentRoot": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\",
       "BasePath": "_content/SmartInventoryManagement",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1385,7 +1385,7 @@
   "Endpoints": [
     {
       "Route": "css/site.9garb9mkd4.css",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\css\\site.css",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1406,7 +1406,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Feb 2025 18:07:46 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1430,7 +1430,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\css\\site.css",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1451,7 +1451,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Feb 2025 18:07:46 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1467,7 +1467,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\favicon.ico",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1488,7 +1488,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1512,7 +1512,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\favicon.ico",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1533,7 +1533,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1549,7 +1549,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\js\\site.js",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1570,7 +1570,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1586,7 +1586,7 @@
     },
     {
       "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\js\\site.js",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1607,7 +1607,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1631,7 +1631,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1652,7 +1652,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1668,7 +1668,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.c2jlpeoesf.map",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1689,7 +1689,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1713,7 +1713,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1734,7 +1734,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1750,7 +1750,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1771,7 +1771,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1787,7 +1787,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.aexeepp0ev.map",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1808,7 +1808,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1832,7 +1832,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1853,7 +1853,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1869,7 +1869,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.sejl45xvog.css",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1890,7 +1890,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1914,7 +1914,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1935,7 +1935,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1951,7 +1951,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.ausgxo2sd3.map",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1972,7 +1972,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1996,7 +1996,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2017,7 +2017,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2033,7 +2033,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.22vffe00uq.css",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2054,7 +2054,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:04 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2078,7 +2078,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2099,7 +2099,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:04 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2115,7 +2115,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.cosvhxvwiu.map",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2136,7 +2136,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:04 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2160,7 +2160,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2181,7 +2181,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:04 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2197,7 +2197,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.xvp3kq03qx.css",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2218,7 +2218,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2242,7 +2242,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.t1cqhe9u97.css",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2263,7 +2263,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2287,7 +2287,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2308,7 +2308,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2324,7 +2324,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.fvhpjtyr6v.map",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2345,7 +2345,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2369,7 +2369,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2390,7 +2390,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2406,7 +2406,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2427,7 +2427,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2443,7 +2443,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.fsbi9cje9m.map",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2464,7 +2464,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:04 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2488,7 +2488,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2509,7 +2509,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:04 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2525,7 +2525,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.tmc1g35s3z.css",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2546,7 +2546,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2570,7 +2570,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.qesaa3a1fm.css",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2591,7 +2591,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2615,7 +2615,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2636,7 +2636,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2652,7 +2652,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.ee0r1s7dh0.map",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2673,7 +2673,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:04 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2697,7 +2697,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2718,7 +2718,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:04 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2734,7 +2734,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2755,7 +2755,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:04 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2771,7 +2771,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.jd9uben2k1.map",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2792,7 +2792,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:04 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2816,7 +2816,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2837,7 +2837,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:04 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2853,7 +2853,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.q9ht133ko3.css",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2874,7 +2874,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:04 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2898,7 +2898,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.rxsg74s51o.css",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2919,7 +2919,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2943,7 +2943,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2964,7 +2964,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2980,7 +2980,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3001,7 +3001,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:04 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3017,7 +3017,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.r4e9w2rdcm.map",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3038,7 +3038,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:04 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3062,7 +3062,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.gye83jo8yx.css",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3083,7 +3083,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3107,7 +3107,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3128,7 +3128,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:04 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3144,7 +3144,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.c2oey78nd0.map",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3165,7 +3165,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:04 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3189,7 +3189,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3210,7 +3210,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:04 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3226,7 +3226,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.wl58j5mj3v.css",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3247,7 +3247,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:04 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3271,7 +3271,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3292,7 +3292,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:04 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3308,7 +3308,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.j5mq2jizvt.map",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3329,7 +3329,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:04 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3353,7 +3353,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3374,7 +3374,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:04 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3390,7 +3390,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.d4r6k3f320.css",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3411,7 +3411,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:04 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3435,7 +3435,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3456,7 +3456,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:04 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3472,7 +3472,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3493,7 +3493,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:04 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3509,7 +3509,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.nvvlpmu67g.map",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3530,7 +3530,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:04 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3554,7 +3554,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.keugtjm085.css",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3575,7 +3575,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:04 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3599,7 +3599,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3620,7 +3620,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3636,7 +3636,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3657,7 +3657,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3673,7 +3673,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.pj5nd1wqec.map",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3694,7 +3694,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3718,7 +3718,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.43atpzeawx.css",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3739,7 +3739,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3763,7 +3763,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3784,7 +3784,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3800,7 +3800,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3821,7 +3821,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3837,7 +3837,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.v0zj4ognzu.map",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3858,7 +3858,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3882,7 +3882,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3903,7 +3903,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3919,7 +3919,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.hrwsygsryq.map",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3940,7 +3940,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3964,7 +3964,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3985,7 +3985,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4001,7 +4001,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.c63t5i9ira.css",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4022,7 +4022,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4046,7 +4046,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4067,7 +4067,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4083,7 +4083,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.ft3s53vfgj.map",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4104,7 +4104,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4128,7 +4128,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4149,7 +4149,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4165,7 +4165,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.ynyaa8k90p.css",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4186,7 +4186,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4210,7 +4210,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.zub09dkrxp.css",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4231,7 +4231,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4255,7 +4255,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.4094rpi4f9.js",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4276,7 +4276,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4300,7 +4300,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4321,7 +4321,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4337,7 +4337,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.6pdc2jztkx.map",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4358,7 +4358,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4382,7 +4382,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4403,7 +4403,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4419,7 +4419,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.hd3gran6i8.js",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4440,7 +4440,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4464,7 +4464,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4485,7 +4485,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4501,7 +4501,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.iovd86k7lj.map",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4522,7 +4522,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4546,7 +4546,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4567,7 +4567,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4583,7 +4583,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4604,7 +4604,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4620,7 +4620,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.kbrnm935zg.map",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4641,7 +4641,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4665,7 +4665,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4686,7 +4686,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4702,7 +4702,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.ltid2c489k.js",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4723,7 +4723,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4747,7 +4747,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.8vyfqsqgz1.js",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4768,7 +4768,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4792,7 +4792,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4813,7 +4813,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4829,7 +4829,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4850,7 +4850,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4866,7 +4866,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.y7v9cxd14o.map",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4887,7 +4887,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4911,7 +4911,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4932,7 +4932,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4948,7 +4948,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.h1s4sie4z3.map",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4969,7 +4969,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4993,7 +4993,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5014,7 +5014,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5030,7 +5030,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.4d85u1mtcx.js",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5051,7 +5051,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5075,7 +5075,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5096,7 +5096,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5112,7 +5112,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.0j3bgjxly4.map",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5133,7 +5133,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5157,7 +5157,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5178,7 +5178,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5194,7 +5194,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.u9q1upor1n.js",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5215,7 +5215,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5239,7 +5239,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5260,7 +5260,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:04 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5276,7 +5276,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.81b7ukuj9c",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5297,7 +5297,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:04 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5321,7 +5321,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.03hjc8e09r.js",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5342,7 +5342,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:04 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5366,7 +5366,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.js",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5387,7 +5387,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:04 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5403,7 +5403,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.48y08845bh.js",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5424,7 +5424,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:04 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5448,7 +5448,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5469,7 +5469,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:04 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5485,7 +5485,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5506,7 +5506,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:04 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5530,7 +5530,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5551,7 +5551,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:04 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5567,7 +5567,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.83jwlth58m.js",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5588,7 +5588,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:04 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5612,7 +5612,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5633,7 +5633,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:04 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5649,7 +5649,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5670,7 +5670,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:04 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5686,7 +5686,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.mrlpezrjn3.js",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5707,7 +5707,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:04 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5731,7 +5731,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5752,7 +5752,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:04 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5768,7 +5768,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.gk0pw8i4co.js",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5789,7 +5789,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:04 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5813,7 +5813,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5834,7 +5834,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:04 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5850,7 +5850,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.worgj0nhwm.js",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5871,7 +5871,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:04 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5895,7 +5895,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5916,7 +5916,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:04 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5932,7 +5932,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5953,7 +5953,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:04 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5977,7 +5977,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.d6nrnj6jjx.js",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5998,7 +5998,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6022,7 +6022,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6043,7 +6043,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6059,7 +6059,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6080,7 +6080,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6096,7 +6096,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.m9qm4tazc0.js",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6117,7 +6117,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6141,7 +6141,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6162,7 +6162,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6178,7 +6178,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.ttgo8qnofa.map",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6199,7 +6199,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6223,7 +6223,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.slim.jjsuc0puko.js",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6244,7 +6244,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6268,7 +6268,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.slim.js",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6289,7 +6289,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6305,7 +6305,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.slim.min.87fc7y1x7t.map",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6326,7 +6326,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6350,7 +6350,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.slim.min.9vr69e8ynj.js",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6371,7 +6371,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6395,7 +6395,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.slim.min.js",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6416,7 +6416,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6432,7 +6432,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.slim.min.map",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6453,7 +6453,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6469,7 +6469,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6490,7 +6490,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6514,7 +6514,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6535,7 +6535,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 14 Feb 2025 12:58:02 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6551,7 +6551,7 @@
     },
     {
       "Route": "SmartInventoryManagement.bundle.scp.css",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SmartInventoryManagement.bundle.scp.css",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SmartInventoryManagement.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6572,7 +6572,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 00:49:09 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6588,7 +6588,7 @@
     },
     {
       "Route": "SmartInventoryManagement.n4j5sx9yxq.bundle.scp.css",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SmartInventoryManagement.bundle.scp.css",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SmartInventoryManagement.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6609,7 +6609,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 00:49:09 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6633,7 +6633,7 @@
     },
     {
       "Route": "SmartInventoryManagement.n4j5sx9yxq.styles.css",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SmartInventoryManagement.styles.css",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SmartInventoryManagement.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6654,7 +6654,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 00:49:09 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6678,7 +6678,7 @@
     },
     {
       "Route": "SmartInventoryManagement.styles.css",
-      "AssetFile": "E:\\Comp2139\\SmartInventoryManagement\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SmartInventoryManagement.styles.css",
+      "AssetFile": "E:\\Comp2139\\COMP2139-W2025\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SmartInventoryManagement.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6699,7 +6699,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 13 Apr 2025 00:49:09 GMT"
+          "Value": "Sun, 13 Apr 2025 03:05:03 GMT"
         },
         {
           "Name": "Cache-Control",

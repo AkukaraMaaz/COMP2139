@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f4yhQFF2Nx8=",
+  "dgSpecHash": "RoIxwhd5Kvc=",
   "success": true,
-  "projectFilePath": "E:\\Comp2139\\SmartInventoryManagement\\SmartInventoryManagement.Tests\\SmartInventoryManagement.Tests.csproj",
+  "projectFilePath": "E:\\Comp2139\\COMP2139-W2025\\SmartInventoryManagement.Tests\\SmartInventoryManagement.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KaidawalIdrish\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\KaidawalIdrish\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",

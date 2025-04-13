@@ -85,7 +85,7 @@
                                     <option value="">Select Product</option>
                                     @foreach (var product in ViewBag.Products)
                                     {
-                                        <option value="@product.Id" data-price="@product.Price">@product.Name - $@product.Price</option>
+                                        <option value="@product.id" data-price="@product.price">@product.name - $@product.price</option>
                                     }
                                 </select>
                             </div>
@@ -156,4 +156,11 @@
             });
         });
     </script>
+}
+
+@if (User.IsInRole("Admin"))
+{
+    <a asp-action="Create" class="btn btn-primary">
+        <i class="fas fa-plus"></i> Add New Product
+    </a>
 }

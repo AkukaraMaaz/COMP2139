@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vLAi5Ba/NYk=",
+  "dgSpecHash": "/3YW6HfGAX0=",
   "success": true,
-  "projectFilePath": "E:\\Comp2139\\SmartInventoryManagement\\SmartInventoryManagement.csproj",
+  "projectFilePath": "E:\\Comp2139\\COMP2139-W2025\\SmartInventoryManagement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KaidawalIdrish\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\KaidawalIdrish\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

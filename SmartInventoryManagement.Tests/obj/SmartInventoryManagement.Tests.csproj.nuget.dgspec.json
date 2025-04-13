@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Comp2139\\SmartInventoryManagement\\SmartInventoryManagement.Tests\\SmartInventoryManagement.Tests.csproj": {}
+    "E:\\Comp2139\\COMP2139-W2025\\SmartInventoryManagement.Tests\\SmartInventoryManagement.Tests.csproj": {}
   },
   "projects": {
-    "E:\\Comp2139\\SmartInventoryManagement\\SmartInventoryManagement.csproj": {
+    "E:\\Comp2139\\COMP2139-W2025\\SmartInventoryManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Comp2139\\SmartInventoryManagement\\SmartInventoryManagement.csproj",
+        "projectUniqueName": "E:\\Comp2139\\COMP2139-W2025\\SmartInventoryManagement.csproj",
         "projectName": "SmartInventoryManagement",
-        "projectPath": "E:\\Comp2139\\SmartInventoryManagement\\SmartInventoryManagement.csproj",
+        "projectPath": "E:\\Comp2139\\COMP2139-W2025\\SmartInventoryManagement.csproj",
         "packagesPath": "C:\\Users\\KaidawalIdrish\\.nuget\\packages\\",
-        "outputPath": "E:\\Comp2139\\SmartInventoryManagement\\obj\\",
+        "outputPath": "E:\\Comp2139\\COMP2139-W2025\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -141,14 +141,14 @@
         }
       }
     },
-    "E:\\Comp2139\\SmartInventoryManagement\\SmartInventoryManagement.Tests\\SmartInventoryManagement.Tests.csproj": {
+    "E:\\Comp2139\\COMP2139-W2025\\SmartInventoryManagement.Tests\\SmartInventoryManagement.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Comp2139\\SmartInventoryManagement\\SmartInventoryManagement.Tests\\SmartInventoryManagement.Tests.csproj",
+        "projectUniqueName": "E:\\Comp2139\\COMP2139-W2025\\SmartInventoryManagement.Tests\\SmartInventoryManagement.Tests.csproj",
         "projectName": "SmartInventoryManagement.Tests",
-        "projectPath": "E:\\Comp2139\\SmartInventoryManagement\\SmartInventoryManagement.Tests\\SmartInventoryManagement.Tests.csproj",
+        "projectPath": "E:\\Comp2139\\COMP2139-W2025\\SmartInventoryManagement.Tests\\SmartInventoryManagement.Tests.csproj",
         "packagesPath": "C:\\Users\\KaidawalIdrish\\.nuget\\packages\\",
-        "outputPath": "E:\\Comp2139\\SmartInventoryManagement\\SmartInventoryManagement.Tests\\obj\\",
+        "outputPath": "E:\\Comp2139\\COMP2139-W2025\\SmartInventoryManagement.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -170,8 +170,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Comp2139\\SmartInventoryManagement\\SmartInventoryManagement.csproj": {
-                "projectPath": "E:\\Comp2139\\SmartInventoryManagement\\SmartInventoryManagement.csproj"
+              "E:\\Comp2139\\COMP2139-W2025\\SmartInventoryManagement.csproj": {
+                "projectPath": "E:\\Comp2139\\COMP2139-W2025\\SmartInventoryManagement.csproj"
               }
             }
           }

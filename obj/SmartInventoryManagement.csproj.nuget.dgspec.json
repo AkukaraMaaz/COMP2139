@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Comp2139\\SmartInventoryManagement\\SmartInventoryManagement.csproj": {}
+    "E:\\Comp2139\\COMP2139-W2025\\SmartInventoryManagement.csproj": {}
   },
   "projects": {
-    "E:\\Comp2139\\SmartInventoryManagement\\SmartInventoryManagement.csproj": {
+    "E:\\Comp2139\\COMP2139-W2025\\SmartInventoryManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Comp2139\\SmartInventoryManagement\\SmartInventoryManagement.csproj",
+        "projectUniqueName": "E:\\Comp2139\\COMP2139-W2025\\SmartInventoryManagement.csproj",
         "projectName": "SmartInventoryManagement",
-        "projectPath": "E:\\Comp2139\\SmartInventoryManagement\\SmartInventoryManagement.csproj",
+        "projectPath": "E:\\Comp2139\\COMP2139-W2025\\SmartInventoryManagement.csproj",
         "packagesPath": "C:\\Users\\KaidawalIdrish\\.nuget\\packages\\",
-        "outputPath": "E:\\Comp2139\\SmartInventoryManagement\\obj\\",
+        "outputPath": "E:\\Comp2139\\COMP2139-W2025\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
